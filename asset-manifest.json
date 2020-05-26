@@ -1,0 +1,16 @@
+{
+  "main.css": "/react-spotify/static/css/main.c2e16573.chunk.css",
+  "main.js": "/react-spotify/static/js/main.7dad058e.chunk.js",
+  "main.js.map": "/react-spotify/static/js/main.7dad058e.chunk.js.map",
+  "runtime~main.js": "/react-spotify/static/js/runtime~main.810ade09.js",
+  "runtime~main.js.map": "/react-spotify/static/js/runtime~main.810ade09.js.map",
+  "static/js/2.faa277a1.chunk.js": "/react-spotify/static/js/2.faa277a1.chunk.js",
+  "static/js/2.faa277a1.chunk.js.map": "/react-spotify/static/js/2.faa277a1.chunk.js.map",
+  "index.html": "/react-spotify/index.html",
+  "precache-manifest.6d398f3e2997fb3727c7b78e7c9483c9.js": "/react-spotify/precache-manifest.6d398f3e2997fb3727c7b78e7c9483c9.js",
+  "service-worker.js": "/react-spotify/service-worker.js",
+  "static/css/main.c2e16573.chunk.css.map": "/react-spotify/static/css/main.c2e16573.chunk.css.map",
+  "static/media/media.png": "/react-spotify/static/media/media.ea524865.png",
+  "static/media/playlist.png": "/react-spotify/static/media/playlist.9f084358.png",
+  "static/media/profile.png": "/react-spotify/static/media/profile.a6ca1d45.png"
+}
